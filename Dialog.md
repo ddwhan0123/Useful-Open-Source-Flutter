@@ -10,3 +10,9 @@ git地址：https://github.com/mchome/flutter_colorpicker<br>
 git地址：https://github.com/jifalops/datetime_picker_formfield<br>
 预览:<br>
 <img src="https://github.com/jifalops/datetime_picker_formfield/raw/master/screenshot.gif" width="23%"/>
+
+
+项目名：date_range_picker<br>
+git地址：https://github.com/anicdh/date_range_picker<br>
+预览:<br>
+<img src="https://github.com/anicdh/date_range_picker/raw/master/demo.gif" width="23%"/>
