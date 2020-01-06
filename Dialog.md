@@ -16,3 +16,8 @@ git地址：https://github.com/jifalops/datetime_picker_formfield<br>
 git地址：https://github.com/anicdh/date_range_picker<br>
 预览:<br>
 <img src="https://github.com/anicdh/date_range_picker/raw/master/demo.gif" width="23%"/>
+
+项目名：nepali_date_picker<br>
+git地址：https://github.com/sarbagyastha/nepali_date_picker<br>
+预览:<br>
+<img src="https://github.com/sarbagyastha/nepali_date_picker/raw/master/nepali_datePicker_demo.gif" width="23%"/>
