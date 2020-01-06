@@ -21,3 +21,8 @@ git地址：https://github.com/anicdh/date_range_picker<br>
 git地址：https://github.com/sarbagyastha/nepali_date_picker<br>
 预览:<br>
 <img src="https://github.com/sarbagyastha/nepali_date_picker/raw/master/nepali_datePicker_demo.gif" width="23%"/>
+
+项目名：f-datetimerangepicker<br>
+git地址：https://github.com/longphanmn/f-datetimerangepicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/longphanmn/f-datetimerangepicker/master/screenshots/sc1.png?token=AUGo18Ndj6dQk9mfcaIq5Cj0FfUS5_Pkks5cfn0JwA%3D%3D" width="23%"/>
