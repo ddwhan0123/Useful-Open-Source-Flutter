@@ -1,5 +1,11 @@
 ## Dialog<br>
 
+
+项目名：TipDialog<br>
+git地址：https://github.com/inRush/TipDialog<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/inRush/Resources/master/images/tip-dialog/success.jpeg" width="23%"/>
+
 项目名：flutter_colorpicker<br>
 git地址：https://github.com/mchome/flutter_colorpicker<br>
 预览:<br>
