@@ -10,6 +10,10 @@
 ##  ViewPager
 ## [点击跳转 ViewPager.md](https://github.com/ddwhan0123/Useful-Open-Source-Flutter/blob/master/ViewPager.md)
 
+##  Chart
+## [点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-Flutter/blob/master/Chart.md)
+
+
 
 ##  Animation
 ## [点击跳转 Animation.md](https://github.com/ddwhan0123/Useful-Open-Source-Flutter/blob/master/Animation.md)
