@@ -43,4 +43,8 @@
 
 ## Others
 
+项目名：flutter-widgets<br>
+git地址：https://github.com/syncfusion/flutter-widgets<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9147ea11722078d1d7506f16f4e4ddb5a8046e4f0ccee639f18003220d26b9e9/68747470733a2f2f63646e2e73796e63667573696f6e2e636f6d2f636f6e74656e742f696d616765732f666c75747465722d776964676574732d636f6c6c6167652e706e67" width="35%"/>
 
